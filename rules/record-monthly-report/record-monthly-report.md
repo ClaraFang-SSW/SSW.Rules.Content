@@ -28,7 +28,7 @@ To enhance transparency and keep the board informed on key business metrics, eac
      - Profit and Loss Statement
 
 ::: img-small  
-![Figure: Create a structured list in SharePoint](https://github.com/ClaraFang-SSW/SSW.Rules.Content/blob/main/rules/record-monthly-report/Create-a-structured-list-in-SharePoint.png)
+![Figure: Create a structured list in SharePoint](Create-a-structured-list-in-SharePoint.png)
 :::
 
 ### Record the Video
